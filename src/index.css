@@ -22,6 +22,7 @@ body {
     color: white;
     scroll-behavior: smooth;
     overflow-x: hidden;
+    font-family: var(--font-serif);
 }
 
 @utility flex-center {

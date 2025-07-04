@@ -16,14 +16,16 @@
 This is a pet project inspired by and following along JavaScript Mastery tutorial:
 [Web Animations Full Course 2025 | Build an Awwwards Website & Master GSAP in Two Hours](https://www.youtube.com/watch?v=AW1yfBKRMKc&t=7094s)
 
-(all credits goes to original author)
+(All credits belong to the original author)
 
 ### Screenshot
+
+<img width="1239" alt="image" src="https://github.com/user-attachments/assets/f418c04c-47a7-4a4e-8816-4d26495dcded" />
   
 ### Links
 
 - Solution URL: https://github.com/angela-tylee/cocktail-gsap
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://cocktail-gsap-one.vercel.app/
 
 ## My Process
 
@@ -33,6 +35,7 @@ This is a pet project inspired by and following along JavaScript Mastery tutoria
 - Tailwind4
 - React
 - react-responsive
+- Vercel (Deployment)
 
 ### What I learned
 
